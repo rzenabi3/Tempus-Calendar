@@ -29,14 +29,14 @@ Work daily Planner
 ## Installation
 
 * The code for this project is accessable through the git hub repository listed below in the REFERENCES section of this README.md.
-* Navigate to the repositry by directing into the Tempus-Planner repository located under the user "https://github.com/rzenabi3?tab=repositories"
-* Once inside the Tempus-Planner repository click the green "<> Code" button and copy the HTTPS link.
+* Navigate to the repositry by directing into the Tempus-Calendar repository located under the user "https://github.com/rzenabi3?tab=repositories"
+* Once inside the Tempus-Calendar repository click the green "<> Code" button and copy the HTTPS link.
 * Once the link is copied you may then clone the repository to your computer through the terminal and you now have access to all JavaScript, Html, CSS, Read.md, and licensing files.
-* Once inside the main directory Navigate into "feature/calendar" branch. Any changes made to this code should always be made within this branch allowing for review before any changes become permanant.
+* Once inside the main directory Navigate into "feature/planner" branch. Any changes made to this code should always be made within this branch allowing for review before any changes become permanant.
 
 ## References
-* link to clone repository
-* Deployed url site
+* link to clone repository https://github.com/rzenabi3/Tempus-Calendar.git
+* Deployed url site https://rzenabi3.github.io/Tempus-Calendar/
 
 ## License
 
@@ -47,6 +47,5 @@ Work daily Planner
 * Current Project is incomplete
 
 ## Screenshot-Application
- * 
-  insert picture here 
+ * Screenshot
   
