@@ -47,5 +47,13 @@ Work daily Planner
 * Current Project is incomplete
 
 ## Screenshot-Application
+<<<<<<< HEAD
  * Screenshot
   
+=======
+ * 
+  insert picture here 
+  ![image](https://user-images.githubusercontent.com/118157273/215384156-bb672cf9-52eb-4cbd-8312-477c51881e56.png)
+
+  
+>>>>>>> 4512228a0f88e4bb9828928eb46ef72ee648ee8a
